@@ -6,3 +6,4 @@ git
 curl
 ssh
 wget
+jq
